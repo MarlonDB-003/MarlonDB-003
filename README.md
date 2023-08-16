@@ -26,4 +26,4 @@
   <a href="https://www.linkedin.com/in/marlon-silva-b82b147a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/MarlonDB-003/MarlonDB-003/blob/output/github-contribution-grip-snake.svg)
+![Snake animation](https://github.com/marlondb-003/marlondb-003/blob/output/github-contribution-grid-snake.svg)
